@@ -1,3 +1,10 @@
+h1{
+	text-align: center;
+	color: brown;
+}
+#cachorro, #casa{
+	border: 2px solid red;
+}
 #cachorro {
 	width: 8em;
 	margin-top: 400px;
@@ -15,4 +22,5 @@
 	width: 4em;
 	display: block;
 	margin-top: 2em;
+	background-color: rebeccapurple;
 }
